@@ -1,0 +1,8 @@
+
+public class ValorNegativoExcepiton extends Excepition{
+
+    public ValorNegativoException(String message) {
+		super(message);
+		// TODO Auto-generated constructor stub
+	}
+}
